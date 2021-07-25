@@ -10,6 +10,11 @@ Les gotos : https://forums.commentcamarche.net/forum/affich-35276216-batch-verif
 
 Les manipulations de chemins : https://fr.comp.os.msdos.narkive.com/dfRtk2WX/extraction-de-chaine-en-dos
 
+Delayed environment variable expansion is useful to get around the limitations of current expansion : https://www.computerhope.com/sethlp.htm
+
+More : https://devblogs.microsoft.com/oldnewthing/20060823-00/?p=29993
+
+
 
 
 
