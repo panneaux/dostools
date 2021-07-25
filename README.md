@@ -2,8 +2,6 @@
 
 collection de scripts msdos
 
-Généralités sur les systèmes d'exploitation : https://www.courstechinfo.be/OS/StructureEnCouches.html#VueSimplifiee
-
 # Links
 
 http://gowap.free.fr/Prog/Dos/Le_DOS.html
@@ -18,6 +16,9 @@ More : https://devblogs.microsoft.com/oldnewthing/20060823-00/?p=29993
 
 "find" et chaînes de caractères : https://www.generation-nt.com/reponses/verifier-si-variable-contient-xyz-dos-entraide-147456.html
 
+# Généralités sur les systèmes d'exploitation
+
+https://www.courstechinfo.be/OS/StructureEnCouches.html#VueSimplifiee
 
 
 
