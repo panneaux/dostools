@@ -2,6 +2,8 @@
 
 collection de scripts msdos
 
+Généralités sur les systèmes d'exploitation : https://www.courstechinfo.be/OS/StructureEnCouches.html#VueSimplifiee
+
 # Links
 
 http://gowap.free.fr/Prog/Dos/Le_DOS.html
