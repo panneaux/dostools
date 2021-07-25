@@ -12,6 +12,8 @@ Les manipulations de chemins : https://fr.comp.os.msdos.narkive.com/dfRtk2WX/ext
 
 Delayed environment variable expansion is useful to get around the limitations of current expansion : https://www.computerhope.com/sethlp.htm
 
+https://www.developpez.net/forums/d1718734/general-developpement/programmation-systeme/windows/scripts-batch/remplacer-nom-chaine-caractere-nom-fichier/
+
 More : https://devblogs.microsoft.com/oldnewthing/20060823-00/?p=29993
 
 "find" et chaînes de caractères : https://www.generation-nt.com/reponses/verifier-si-variable-contient-xyz-dos-entraide-147456.html
