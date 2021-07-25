@@ -18,6 +18,8 @@ More : https://devblogs.microsoft.com/oldnewthing/20060823-00/?p=29993
 
 "find" et chaînes de caractères : https://www.generation-nt.com/reponses/verifier-si-variable-contient-xyz-dos-entraide-147456.html
 
+Copy : https://www.malekal.com/comment-copier-des-fichiers-en-invite-de-commandes-cmd/
+
 # Généralités sur les systèmes d'exploitation
 
 https://www.courstechinfo.be/OS/StructureEnCouches.html#VueSimplifiee
