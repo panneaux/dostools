@@ -14,6 +14,8 @@ Delayed environment variable expansion is useful to get around the limitations o
 
 More : https://devblogs.microsoft.com/oldnewthing/20060823-00/?p=29993
 
+"find" et chaînes de caractères : https://www.generation-nt.com/reponses/verifier-si-variable-contient-xyz-dos-entraide-147456.html
+
 
 
 
